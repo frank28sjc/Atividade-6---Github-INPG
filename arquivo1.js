@@ -1,0 +1,1 @@
+alert("Começo de Atividade")
