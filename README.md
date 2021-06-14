@@ -1,4 +1,10 @@
 # Atividade-6-Github-INPG
+
+Descrição de modificações no github
+* foi feito `<git branch temp>` para criar uma branch dentro do main igual que com dev, foi feito `<git checkout>` para entrar no branch
+  * foi feito `<git push origin temp>`
+  * foi feito `<git merge>` de banch temp e dev e se resolveu conflitos.
+
 > Descrição de modificações no github
 
 * Descrição de modificações no github
@@ -21,3 +27,4 @@
   * foi feito git push no repositorio remoto e resovido conflitos. 
   * Ultima modificação do readme
   * Conflito para enviar tag ao repositorio remoto uso de commando `<git push --follow-tags>`
+
