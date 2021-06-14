@@ -20,4 +20,4 @@
   * foi feito `<git tag -a 1.1>` se abriu o comando e se deixou mensagem de Versão de entrega e commit
   * foi feito git push no repositorio remoto e resovido conflitos. 
   * Ultima modificação do readme
-  
+  * Conflito para enviar tag ao repositorio remoto uso de commando `<git push --follow-tags>`
