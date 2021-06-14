@@ -1,1 +1,2 @@
-alert("Começo de Atividade")
+﻿alert("Começo de Atividade")
+alert("Rescrevendo uma linha")
