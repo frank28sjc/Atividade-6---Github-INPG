@@ -33,5 +33,4 @@ Descrição de modificações no github
   * foi feito git push no repositorio remoto e resovido conflitos. 
   * Ultima modificação do readme
   * Conflito para enviar tag ao repositorio remoto uso de commando `<git push --follow-tags>`
-
-
+  * Se anexou ultima tag 1.2 `<git tag -a 1.2>`
